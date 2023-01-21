@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffd569;
+  padding: 30px;
+  min-height: 100vh;
+  text-align: center;
+}
+.bg-1 {
+  background-color: #ffffff;
+  border-radius: 10px;
+
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.number {
+  color: #ffd569;
+}
+.img-container {
+  display: flex;
+  padding: 10px;
+}
+.img {
+  width: 30%;
+  margin: 30px;
+}
+.img-btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  background-color: #007bff;
+  cursor: pointer;
+  border-width: 0px;
+  color: #ffffff;
+  height: 25px;
+  border-radius: 5px;
+}
